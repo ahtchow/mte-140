@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "new": "cpp",
+        "iostream": "cpp",
+        "ios": "cpp",
+        "ostream": "cpp",
+        "functional": "cpp",
+        "__functional_03": "cpp",
+        "iosfwd": "cpp",
+        "queue": "cpp",
+        "__hash_table": "cpp",
+        "algorithm": "cpp",
+        "filesystem": "cpp",
+        "string": "cpp"
+    }
+}
