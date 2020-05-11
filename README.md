@@ -1,6 +1,6 @@
 # MTE-140: Algorithms and Data Structures
 
-The following repository is work from my MTE140 Class!
+The following repository is work from my MTE140 Class! The purpose serves for future reference to myself and employers. 
 
 ### Course Description: 
 Algorithms and Data Structures emphasizes the following topics: structured software design data structures, abstract data types, recursive algorithms, algorithm analysis and design, sorting and searching, hashing, and problem-solving strategies.
